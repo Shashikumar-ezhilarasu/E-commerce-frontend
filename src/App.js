@@ -6,13 +6,14 @@ import ShopCategory from './Pages/ShopCategory';
 import Product from './Pages/Product';
 import Cart from './Pages/Cart';
 import Loginsignup from './Pages/Loginsignup';
+import Shop from './Pages/Shop.jsx';
 function App() {
   return (
     <div >
       <BrowserRouter>
       <Navbar/>
       <Routes>
-        <Route path='/' element={<shop/>}/>
+        <Route path='/' element={<Shop/>}/>
         <Route path='/mens' element={<ShopCategory category="men"/>}/>
         <Route path='/mens' element={<ShopCategory category="women"/>}/>
         <Route path='/kids' element={<ShopCategory category="kid"/>}/>
