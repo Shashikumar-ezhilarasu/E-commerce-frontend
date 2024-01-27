@@ -1,11 +1,11 @@
 import React from 'react';
 import './NewCollections.css';
-import Item from './Item'; // Assuming 'Item' is in the same directory
+import Item from '../Item/Item'; // Assuming 'Item' is in the same directory
+import new_collections from '../Assets/new_collections';
 
 const NewCollections = () => {
-  const new_collections = [
-    // ... your data here
-  ];
+  // Assuming new_collections is an array of objects with data
+  // const new_collections = [...];
 
   return (
     <div className='new-collections'>
@@ -29,4 +29,5 @@ const NewCollections = () => {
 }
 
 export default NewCollections;
+
 

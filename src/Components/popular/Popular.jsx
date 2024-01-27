@@ -1,7 +1,7 @@
 import React from 'react';
 import './Popular.css';
 import data_product from '../Assets/data';
-import Item from '../item/Item' // Assuming 'Item' is the correct file name and path
+import Item from '../Item/Item' // Assuming 'Item' is the correct file name and path
 
 const Popular = () => {
   return (
