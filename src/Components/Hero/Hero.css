@@ -2,7 +2,6 @@
     height: 100vh;
     background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
     display: flex;
-    align-items: flex-start;
 }
 
 .hero-left {
@@ -10,9 +9,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: flex-start; /* Align items to the start of the cross axis */
     gap: 20px;
     padding: 80px; /* Adjusted padding value for better alignment */
-    line-height: 1.1;
+    line-height: 1.4; /* Adjusted line-height for better readability */
 }
 
 .hero-left h2 {
@@ -34,7 +34,7 @@
     gap: 20px;
 }
 
-.hero--ion img {
+.hero-hand-icon img {
     width: 105px;
 }
 
@@ -53,9 +53,19 @@
     font-weight: 500;
 }
 
-.hero-right{
+.hero-right {
     flex: 1;
-    display:flex;
+    display: flex;
     align-items: center;
     justify-content: center;
+}
+
+/* Additional styles to center content vertically in hero-right */
+.hero-right-content {
+    text-align: center;
+}
+
+.hero-right img {
+    max-width: 100%;
+    height: auto;
 }
