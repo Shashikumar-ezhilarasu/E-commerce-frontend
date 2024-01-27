@@ -38,3 +38,18 @@
     }
 }
 
+.shopcategory-loadmore{
+    display: flex;
+    justify-content: center;
+    margin: 150px auto;
+    width:233px;
+    height:69px;
+    border-radius: 75px;
+    background: #ededed;
+    font-size: 18px;
+    font-weight:500;
+    color: 787878px;
+    align-items: center;
+    cursor: pointer;
+
+}
