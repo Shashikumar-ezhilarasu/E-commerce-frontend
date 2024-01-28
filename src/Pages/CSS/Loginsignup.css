@@ -1,0 +1,80 @@
+.loginsignup {
+    width: 100%;
+    height: 80vh;
+    background: #fce3fe;
+    padding-top: 100px; /* Corrected padding syntax */
+}
+
+.loginsignup-container {
+    width: 500px;
+    height: 600px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+    border-radius: 10px; /* Added border radius for a softer look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added a subtle box shadow for depth */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center the content horizontally */
+    justify-content: center; /* Center the content vertically */
+}
+
+.loginsignup-container h1 {
+    margin: 20px 0;
+    color: #6a2c70; /* Changed heading color to a soothing shade */
+    font-size: 28px; /* Adjusted font size for emphasis */
+}
+
+.loginsignup-fields {
+    width: 100%; /* Ensure the fields take up full width */
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Reduced the gap for a cleaner look */
+    margin-top: 30px;
+}
+
+.loginsignup-fields input {
+    height: 72px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    font-size: 18px;
+}
+
+.loginsignup-container button {
+    background-color: #6a2c70; /* Background color for the button */
+    color: #ffffff; /* Text color for the button */
+    padding: 12px 20px; /* Adjust padding for a comfortable button size */
+    border: none; /* Remove default button border */
+    border-radius: 5px; /* Add a subtle border radius for a rounded appearance */
+    font-size: 16px; /* Set font size for the button text */
+    cursor: pointer; /* Add a pointer cursor for better user experience */
+    transition: background-color 0.3s ease; /* Smooth transition on hover */
+}
+
+.loginsignup-container button:hover {
+    background-color: #522260; /* Darker background color on hover */
+    color: #ffffff; /* Text color on hover */
+}
+.loginsignup-agree {
+    margin-top: 20px; /* Adjust the top margin as needed */
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.loginsignup-agree input {
+    margin-right: 10px; /* Adjust the right margin for spacing between checkbox and label */
+}
+
+.loginsignup-agree label {
+    font-size: 14px; /* Adjust the font size of the label */
+    color: #333; /* Set the color of the label text */
+}
+
+.loginsignup-agree a {
+    color: #6a2c70; /* Set the color of the link */
+    text-decoration: underline; /* Underline the link text */
+    margin-left: 5px; /* Adjust the left margin for spacing between label and link */
+}
