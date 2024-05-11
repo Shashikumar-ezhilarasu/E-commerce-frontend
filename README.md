@@ -4,7 +4,7 @@
 
 # E-Commerce Website README
 
-Welcome to our E-Commerce Website project! 🎉 This project is currently in progress and was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), providing a solid foundation for building a modern and responsive e-commerce platform. 🚀
+Welcome to our E-Commerce Website project! 🎉 This project is currently in progress and was bootstrapped with ReactJs, providing a solid foundation for building a modern and responsive e-commerce platform. 🚀
 
 ## Overview
 
@@ -51,5 +51,14 @@ We welcome contributions from the community to improve and enhance the functiona
 ## Feedback
 
 We value your feedback! If you have any suggestions, questions, or concerns, please don't hesitate to reach out to us. Your input helps us continually improve the website and provide the best possible experience for our users. 📣📧
+
+"I'm currently in the process of developing and refining these key features for our e-commerce platform. There's ongoing work to ensure that each aspect, from user authentication to payment integration, meets our standards and delivers a seamless shopping experience. Rest assured, I'm dedicated to making significant progress and bringing these features to fruition as efficiently as possible."
+
+
+
+
+
+
+
 
 Thank you for your interest in our E-Commerce Website project! Happy shopping! 🛍️🌟
