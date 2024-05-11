@@ -21,11 +21,7 @@ Our goal with this project is to create an intuitive and user-friendly online sh
 - **Order Management**: Enable users to manage their orders, view order history, and track the status of shipments. 📦📋
 - **Payment Integration**: Secure payment processing with integration of popular payment gateways for hassle-free transactions. 💸💰
 
-## WEB OVERVIEW <br>
-![image](https://github.com/Shashikumar-ezhilarasu/E-commerce-frontend/assets/152071778/44b48be0-0f54-4c3b-828c-a337fd02655a)
 
-## KIDS SECTION <br>
-![image](https://github.com/Shashikumar-ezhilarasu/E-commerce-frontend/assets/152071778/2eea49af-a7bb-4c46-ac03-0c233d3547f2)
 
 
 
