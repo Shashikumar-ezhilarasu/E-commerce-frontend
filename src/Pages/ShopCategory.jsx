@@ -7,12 +7,12 @@ import Item from '../Components/Item/Item';
 const ShopCategory = (props) => {
   const { all_product } = useContext(ShopContext);
 
-  // Filter products based on the category
+ 
   const filteredProducts = all_product.filter(item => item.category === props.category);
 
   return (
     <div className='shop-category'>
-      {/* Your component logic using the all_product context */}
+     
       <img className='shopcategory-banner' src={props.banner} alt="" />
       <div className="shopcategory-indexSort">
         <p>
