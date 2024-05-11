@@ -22,8 +22,10 @@ Our goal with this project is to create an intuitive and user-friendly online sh
 - **Payment Integration**: Secure payment processing with integration of popular payment gateways for hassle-free transactions. 💸💰
 
 ## WEB OVERVIEW <br>
-- <img width="1460" alt="image" src="https://github.com/Shashikumar-ezhilarasu/E-commerce-frontend/assets/152071778/8d7cf04c-fa0e-4af1-8838-723493e1a8c1">
+![image](https://github.com/Shashikumar-ezhilarasu/E-commerce-frontend/assets/152071778/44b48be0-0f54-4c3b-828c-a337fd02655a)
+
 ## KIDS SECTION <br>
+![image](https://github.com/Shashikumar-ezhilarasu/E-commerce-frontend/assets/152071778/2eea49af-a7bb-4c46-ac03-0c233d3547f2)
 
 
 
