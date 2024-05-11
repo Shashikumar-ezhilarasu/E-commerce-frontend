@@ -30,12 +30,11 @@ const Footer = () => {
             <img src={whatsapp_icon} alt="" />
         </div>
       </div>
-      <div className="footer-copy-right">
-        <hr />
-        <p>Copyright@2023 -All rights reserved under Saturn.org</p>
-      </div>
+     
     </div>
   )
 }
 
 export default Footer
+
+//impoting the necesaary files 
